@@ -1,4 +1,4 @@
-package com.wehelpyou.wehelp;
+package com.wehelpyou.wehelpvolunteers;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.wehelpyou.wehelp", appContext.getPackageName());
+        assertEquals("com.wehelpyou.com.wehelpyou.wehelpvolunteers", appContext.getPackageName());
     }
 }

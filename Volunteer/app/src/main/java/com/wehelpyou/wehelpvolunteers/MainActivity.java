@@ -1,4 +1,4 @@
-package com.wehelpyou.wehelp;
+package com.wehelpyou.wehelpvolunteers;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

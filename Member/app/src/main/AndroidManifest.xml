@@ -13,12 +13,14 @@
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
-        <activity
-            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
-            android:name=".SplashScreenActivity"
-            android:parentActivityName=".MainActivity"
-            >
+        <activity android:name=".LoginActivity"
+            android:label="Registration"
+            android:theme="@style/AppTheme">
 
+        </activity>
+        <activity
+            android:theme="@style/SplashTheme"
+            android:name=".SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
