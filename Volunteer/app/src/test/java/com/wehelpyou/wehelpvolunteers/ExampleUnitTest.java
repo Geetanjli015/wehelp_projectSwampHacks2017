@@ -1,4 +1,4 @@
-package com.wehelpyou.wehelp;
+package com.wehelpyou.wehelpvolunteers;
 
 import org.junit.Test;
 
